@@ -22,9 +22,9 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     heimuer: {
-        api: 'https://json.heimuer.xyz',
-        name: '黑木耳',
-        detail: 'https://heimuer.tv'
+        api: 'https://lzi888.com/',
+        name: '量子资源',
+        detail: 'https://lzi888.com/'
     },
     ffzy: {
         api: 'http://ffzy5.tv',
@@ -32,8 +32,8 @@ const API_SITES = {
         detail: 'http://ffzy5.tv'
     },
     tyyszy: {
-        api: 'https://tyyszy.com',
-        name: '天涯资源',
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/',
+        name: '新浪资源',
     },
     ckzy: {
         api: 'https://www.ckzy1.com',
